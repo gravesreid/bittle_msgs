@@ -1,3 +1,2 @@
-string label
-int64 xposition
-int64 yposition
+int64[] results
+float64[] xywhn_list
