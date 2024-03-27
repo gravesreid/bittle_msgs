@@ -1,9 +1,11 @@
 bool found_acorn
+bool found_black_pheromone
+bool found_white_pheromone
 bool searching
 bool collecting
 bool collected
-bool black_pheromones_dropped
-bool white_pheromones_dropped
+int32 black_pheromones_dropped
+int32 white_pheromones_dropped
 bool returning
 bool mission_complete
-bool last_command_sent
+str last_command_sent
