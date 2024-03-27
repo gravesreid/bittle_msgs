@@ -8,4 +8,4 @@ int32 black_pheromones_dropped
 int32 white_pheromones_dropped
 bool returning
 bool mission_complete
-str last_command_sent
+string last_command_sent
