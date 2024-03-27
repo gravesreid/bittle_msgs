@@ -11,6 +11,7 @@ rosidl_generate_interfaces(${PROJECT_NAME}
   "msg/Detection.msg"
   "msg/Command.msg"
   "msg/State.msg"
+  "msg/SerialResponse.msg"
   "srv/SerialCommand.srv"
 )
 
