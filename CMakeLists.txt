@@ -8,7 +8,8 @@ endif()
 find_package(rosidl_default_generators REQUIRED)
 
 rosidl_generate_interfaces(${PROJECT_NAME}
-  "msg/Detection.msg"
+  "msg/Detection.msg",
+  "msg/Command.msg"
 )
 
 # find dependencies
