@@ -17,6 +17,7 @@ rosidl_generate_interfaces(${PROJECT_NAME}
   "msg/SerialResponse.msg"
   "srv/SerialCommand.srv"
   "srv/CapturePhoto.srv"
+  "srv/ExecuteCommand.srv"
   DEPENDENCIES sensor_msgs
 )
 

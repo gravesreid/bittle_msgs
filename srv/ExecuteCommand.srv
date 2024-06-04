@@ -1,0 +1,4 @@
+# ExecuteCommand.srv
+string command
+---
+bool success
