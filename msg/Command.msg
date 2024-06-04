@@ -1,1 +1,2 @@
-string cmd
+string[] cmd
+float64[] delay

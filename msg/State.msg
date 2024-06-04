@@ -9,3 +9,4 @@ int32 white_pheromones_dropped
 bool returning
 bool mission_complete
 string last_command_sent
+bool observing
