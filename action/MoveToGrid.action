@@ -1,4 +1,4 @@
-string[] goal_cell
+string goal_cell
 ---
 string last_command
 ---
