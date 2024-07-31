@@ -18,6 +18,7 @@ rosidl_generate_interfaces(${PROJECT_NAME}
   "srv/SerialCommand.srv"
   "srv/CapturePhoto.srv"
   "srv/ExecuteCommand.srv"
+  "action/MoveToGrid.action"
   DEPENDENCIES sensor_msgs
 )
 
