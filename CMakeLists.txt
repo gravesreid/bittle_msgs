@@ -17,6 +17,7 @@ rosidl_generate_interfaces(${PROJECT_NAME}
   "msg/SerialResponse.msg"
   "msg/AprilTag.msg"
   "msg/Yolo.msg"
+  "msg/Point.msg"
   "srv/SerialCommand.srv"
   "srv/CapturePhoto.srv"
   "srv/ExecuteCommand.srv"

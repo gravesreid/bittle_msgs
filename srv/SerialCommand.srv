@@ -1,3 +1,4 @@
-string command_to_send
+string cmd
+float64 delay
 ---
-string next_command
+string reply
